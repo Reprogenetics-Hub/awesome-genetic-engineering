@@ -84,6 +84,7 @@ _A curated list of awesome resources for genetic engineering._
 ## Researchers
 
 1. [George Church](https://github.com/church-lab): Harvard geneticist pioneering synthetic biology and genome engineering.
+2. ...
 
 ## Courses
 
