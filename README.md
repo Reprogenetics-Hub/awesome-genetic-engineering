@@ -1,153 +1,179 @@
 # Awesome Genetic Engineering [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-_A curated list of awesome resources for genetic engineering._
+_A curated[^curation_details] list of awesome resources on genetic engineering[^definition_genetic_engineering]._
 
-<details markdown=1>
-
-<summary> Definition From Wikipedia </summary>
-
-> **Genetic engineering**, also called **genetic modification** or **genetic manipulation**, is the modification and manipulation of an organism's [genes](https://en.wikipedia.org/wiki/Gene "Gene") using [technology](https://en.wikipedia.org/wiki/Technology "Technology"). It is a set of [technologies](https://en.wikipedia.org/wiki/Genetic_engineering_techniques "Genetic engineering techniques") used to change the genetic makeup of cells, including the transfer of genes within and across species boundaries to produce improved or novel [organisms](https://en.wikipedia.org/wiki/Organisms "Organisms"). New [DNA](https://en.wikipedia.org/wiki/DNA "DNA") is obtained by either isolating and copying the genetic material of interest using [recombinant DNA](https://en.wikipedia.org/wiki/Recombinant_DNA "Recombinant DNA") methods or by [artificially synthesising](https://en.wikipedia.org/wiki/Artificial_gene_synthesis "Artificial gene synthesis") the DNA. A construct is usually created and used to insert this DNA into the host organism. The first recombinant DNA molecule was made by [Paul Berg](https://en.wikipedia.org/wiki/Paul_Berg "Paul Berg") in 1972 by combining DNA from the monkey virus [SV40](https://en.wikipedia.org/wiki/SV40 "SV40") with the [lambda virus](https://en.wikipedia.org/wiki/Lambda_phage "Lambda phage"). As well as inserting [genes](https://en.wikipedia.org/wiki/Gene "Gene"), the process can be used to remove, or "[knock out](https://en.wikipedia.org/wiki/Gene_knockout "Gene knockout")", genes. The new DNA can either be inserted randomly or [targeted](https://en.wikipedia.org/wiki/Gene_targeting "Gene targeting") to a specific part of the [genome](https://en.wikipedia.org/wiki/Genome "Genome"). [[1](https://en.wikipedia.org/wiki/Genetic_engineering#cite_note-1)] [^wikipedia_citation]
-
-[^wikipedia_citation]: Wikipedia contributors. "Genetic engineering." Wikipedia. Last modified September 30, 2025. Accessed October 24, 2025. <https://en.wikipedia.org/wiki/Genetic_engineering>.
-
-</details>
+[^definition_genetic_engineering]: (from Wikipedia, see citation at the bottom) **Genetic engineering**, also called **genetic modification** or **genetic manipulation**, is the modification and manipulation of an organism's [genes](https://en.wikipedia.org/wiki/Gene "Gene") using [technology](https://en.wikipedia.org/wiki/Technology "Technology"). It is a set of [technologies](https://en.wikipedia.org/wiki/Genetic_engineering_techniques "Genetic engineering techniques") used to change the genetic makeup of cells, including the transfer of genes within and across species boundaries to produce improved or novel [organisms](https://en.wikipedia.org/wiki/Organisms "Organisms"). New [DNA](https://en.wikipedia.org/wiki/DNA "DNA") is obtained by either isolating and copying the genetic material of interest using [recombinant DNA](https://en.wikipedia.org/wiki/Recombinant_DNA "Recombinant DNA") methods or by [artificially synthesising](https://en.wikipedia.org/wiki/Artificial_gene_synthesis "Artificial gene synthesis") the DNA. A construct is usually created and used to insert this DNA into the host organism. The first recombinant DNA molecule was made by [Paul Berg](https://en.wikipedia.org/wiki/Paul_Berg "Paul Berg") in 1972 by combining DNA from the monkey virus [SV40](https://en.wikipedia.org/wiki/SV40 "SV40") with the [lambda virus](https://en.wikipedia.org/wiki/Lambda_phage "Lambda phage"). As well as inserting [genes](https://en.wikipedia.org/wiki/Gene "Gene"), the process can be used to remove, or "[knock out](https://en.wikipedia.org/wiki/Gene_knockout "Gene knockout")", genes. The new DNA can either be inserted randomly or [targeted](https://en.wikipedia.org/wiki/Gene_targeting "Gene targeting") to a specific part of the [genome](https://en.wikipedia.org/wiki/Genome "Genome"). [[1](https://en.wikipedia.org/wiki/Genetic_engineering#cite_note-1)] CITATION: Wikipedia contributors. "Genetic engineering." Wikipedia. Last modified September 30, 2025. Accessed October 24, 2025. <https://en.wikipedia.org/wiki/Genetic_engineering>.
 
 ![](./assets/genetic_engineering.jpg) [^image_attribution]
 
 [^image_attribution]: This file is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons "w:en:Creative Commons") [Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en "creativecommons:by-sa/3.0/deed.en") license. Image Changed Made: None. Image Link: <https://commons.wikimedia.org/wiki/File:Rat_hippocampus_stained_with_antibody_to_NeuN_(green),_myelin_basic_protein_(red)_and_DNA_(blue).jpg>. Image Description: "This is a section of adult rat hippocampus stained with antibody to the neuronal nucleus and perikaryal antibody [NeuN](https://en.wikipedia.org/wiki/NeuN "en:NeuN") (a.k.a. Fox3) in green and antibody to myelin basic protein (MBP) in red. The MBP reveals neuronal axons while the NeuN antibody reveals neurons but not non neuronal cells. The fluorescent blue DNA stain [DAPI](https://en.wikipedia.org/wiki/DAPI "en:DAPI") was used to stain nuclei on neurons and non-neuronal cells. Antibodies and imaging courtesy of [EnCor Biotechnology Inc](https://en.wikipedia.org/wiki/EnCor_Biotechnology_Inc "en:EnCor Biotechnology Inc").".
 
-> [!NOTE]
->
-> This list follows specific scoping guidelines. The **Books** section primarily contains textbooks. **Organizations** is divided into GitHub organizations and non-GitHub organizations. **Researchers** exclusively features researcher GitHub profiles. A **Reading Lists** section was chosen over individual papers, as managing the volume of papers on the topic at hand in a single list in untenable. **Repositories** targets larger work on GitHub and excludes, for example, standalone code for papers. **Datasets** includes only publicly accessible data. **Software** features notable tools, libraries, and frameworks not available on GitHub. **Websites** covers informational sites, news sources, and community hubs. **Educational Resources** includes tutorials, videos, and other learning materials.
+[^curation_details]: This list follows specific scoping guidelines. **CRISPR Tools & Databases** covers CRISPR array databases, guide RNA design tools, and anti-CRISPR resources. **Design & Analysis Software** features open-source platforms and computational prediction tools. **Protocols & Methods** includes comprehensive protocol collections and key editing methods. **Synthetic Biology Resources** covers plasmid repositories, courses, journals, and communities. **Organizations & Networks** lists research institutes and biotech companies. **Educational Resources** includes books and video lectures. **Commercial Suppliers** covers CRISPR reagents and synthetic DNA providers. **Regulatory & Ethics** features governance guidelines and ethical frameworks.
 
 ## Contents
 
-- [Books](#books)
-- [Journals](#journals)
-- [Conferences](#conferences)
-- [Organizations](#organizations)
-- [Researchers](#researchers)
-- [Courses](#courses)
-- [Reading Lists](#reading-lists)
-- [Repositories](#repositories)
-- [Datasets](#datasets)
-- [Software](#software)
-- [Websites](#websites)
+- [CRISPR Tools & Databases](#crispr-tools--databases)
+- [Design & Analysis Software](#design--analysis-software)
+- [Protocols & Methods](#protocols--methods)
+- [Synthetic Biology Resources](#synthetic-biology-resources)
+- [Organizations & Networks](#organizations--networks)
 - [Educational Resources](#educational-resources)
-- [Contribution](#contribution)
-- [License](#license)
+- [Commercial Suppliers](#commercial-suppliers)
+- [Regulatory & Ethics](#regulatory--ethics)
+- [People](#people)
+- [Related Awesome Lists](#related-awesome-lists)
 
-## Books
+## CRISPR Tools & Databases
 
-1. [The CRISPR Generation: The Story of the World's First Gene-Edited Babies](https://www.amazon.com/CRISPR-Generation-Story-Worlds-Gene-Edited/dp/0358223598): Kiran Musunuru on He Jiankui case.
-2. [A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution](https://www.amazon.com/Crack-Creation-Editing-Unthinkable-Evolution/dp/0544716949): Jennifer Doudna and Samuel Sternberg.
-3. [The Gene: An Intimate History](https://www.amazon.com/Gene-Intimate-History-Siddhartha-Mukherjee/dp/147673352X): Siddhartha Mukherjee on the history of genetics.
-4. [Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves](https://www.amazon.com/Regenesis-Synthetic-Biology-Reinvent-Ourselves/dp/0465075703): George Church and Ed Regis.
-5. [Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life](https://www.amazon.com/Life-Speed-Light-Double-Digital/dp/0670025402): Craig Venter on synthetic genomics.
-6. [The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race](https://www.amazon.com/Code-Breaker-Jennifer-Editing-Future/dp/1982115858): Walter Isaacson biography.
+### CRISPR Array & Cas Gene Databases
 
-## Journals
+1. [CRISPRCasdb](https://crisprcas.i2bc.paris-saclay.fr): 36,605 full prokaryote genomes with CRISPR and Cas gene data.
+2. [CRISPRdetect](https://github.com/davidchyou/CRISPRDetect): Web tool for automatic CRISPR array detection and prediction.
+3. [CRISPRidentify](https://github.com/BackofenLab/CRISPRidentify): Machine learning tool to distinguish genuine CRISPR arrays from false positives.
+4. [CRISPRloci](https://github.com/TulsaBioinformaticsToolsmith/CRISPRloci): Enhanced CRISPR array identification with data-driven filtering.
 
-1. [Nature Biotechnology](https://www.nature.com/nbt/): Leading biotechnology research journal.
-2. [Cell](https://www.cell.com/): Molecular and cell biology, including genetic engineering.
-3. [Science](https://www.science.org/): Multidisciplinary science including genetic engineering advances.
-4. [CRISPR Journal](https://www.liebertpub.com/journal/crispr): Dedicated to CRISPR research and applications.
-5. [Molecular Therapy](https://www.cell.com/molecular-therapy-family/molecular-therapy/home): Gene therapy and genetic medicine.
-6. [ACS Synthetic Biology](https://pubs.acs.org/journal/asbcd6): Synthetic biology research.
+### Guide RNA Design Tools
 
-## Conferences
+1. [CRISPOR](http://crispor.tefor.net): Versatile platform for guide RNA design with off-target scoring and locus visualization (multiple species).
+2. [CHOPCHOP](https://chopchop.cbu.uib.no): Web tool for guide RNA design across genome-editing nucleases.
+3. [Benchling CRISPR Tool](https://www.benchling.com/crispr): Cloud-based guide RNA design with collaboration features.
+4. [Cas-Designer](http://www.rgenome.net/cas-designer/): gRNA design for Cas9, Cas12a, and base editors.
+5. [IDT CRISPR Design Tool](https://www.idtdna.com/site/order/designtool/index/CRISPR_SEQUENCE): Free design tool from Integrated DNA Technologies.
 
-1. [CRISPR Conference](https://crisprconference.org/): Annual meeting focused on CRISPR technologies and applications.
-2. [American Society of Gene & Cell Therapy (ASGCT) Annual Meeting](https://annualmeeting.asgct.org/): Major gene therapy conference.
-3. [Genome Editing Congress](https://www.terrapinn.com/conference/genome-editing/): International conference on genome editing technologies.
-4. [Synthetic Biology: Engineering, Evolution & Design (SEED)](https://seed.synbiobeta.com/): Conference on synthetic biology applications.
-5. [International Summit on Human Gene Editing](https://www.nationalacademies.org/): Periodic international meetings on heritable genome editing.
+### Anti-CRISPR Resources
 
-## Organizations
+1. [anti-CRISPRdb](http://guolab.whu.edu.cn/anti-CRISPRdb/): Database of anti-CRISPR proteins (Acr) with sequences, coding regions, and taxonomy.
+2. [AcrDB](http://bcb.unl.edu/AcrDB): 39,799 Acr-Aca operons across 7,000+ RefSeq genomes.
+3. [CASANOVA](https://www.nature.com/articles/s41589-019-0421-6): Optogenetic control of CRISPR editing using anti-CRISPR proteins.
 
-### GitHub Organizations
+## Design & Analysis Software
 
-1. [Broad Institute](https://github.com/broadinstitute): Genomic medicine and research organization with extensive open-source tools.
+### Open Source Platforms
 
-### Other Organizations
+1. [Addgene CRISPR Resources](https://www.addgene.org/guides/crispr/): Comprehensive guide with plasmid repositories and protocols.
+2. [Synthego ICE Analysis](https://ice.synthego.com): Free CRISPR analysis tool for Sanger sequencing data.
+3. [CRISPResso2](https://github.com/pinellolab/CRISPResso2): Analysis of genome editing outcomes from sequencing data.
 
-1. [CRISPR Therapeutics](https://crisprtx.com/): Clinical-stage biotech company.
-2. [The Innovative Genomics Institute](https://innovativegenomics.org/): UC Berkeley research institute.
-3. [Broad Institute](https://www.broadinstitute.org/): Genomic medicine and research.
-4. [Synthetic Biology Engineering Research Center](https://synberc.org/): SynBERC research consortium.
-5. [International Society for Stem Cell Research (ISSCR)](https://www.isscr.org/): Stem cell and genetic engineering guidelines.
-6. [WHO Registry of Human Genome Editing](https://www.who.int/groups/expert-advisory-committee-on-developing-global-standards-for-governance-and-oversight-of-human-genome-editing): International oversight.
-7. [Nuffield Council on Bioethics](https://www.nuffieldbioethics.org/topics/genome-editing): Ethical frameworks.
-8. [Center for Genetics and Society](https://www.geneticsandsociety.org/): Public interest advocacy.
-9. [NASEM Genome Editing Resources](https://www.nationalacademies.org/topics/genome-editing): Reports and guidelines.
+### Computational Prediction
 
-## Researchers
+1. [Elevation](https://github.com/mshen/predict-activity): Machine learning prediction of CRISPR/Cas9 activity.
+2. [DeepCRISPR](https://github.com/bm2-lab/DeepCRISPR): Deep learning for gRNA efficacy prediction.
 
-1. [George Church](https://github.com/church-lab): Harvard geneticist pioneering synthetic biology and genome engineering.
+## Protocols & Methods
 
-## Courses
+### Comprehensive Protocol Collections
 
-1. [Genome Editing (edX)](https://www.edx.org/): CRISPR and gene editing fundamentals.
-2. [Introduction to Synthetic Biology (MIT OpenCourseWare)](https://ocw.mit.edu/courses/biological-engineering/): Free MIT synthetic biology course.
-3. [CRISPR: A Revolution in Genome Editing (FutureLearn)](https://www.futurelearn.com/): University of Melbourne course on CRISPR technology.
-4. [Genetics and Society: A Course for Educators (Coursera)](https://www.coursera.org/learn/genetics-society): American Museum of Natural History genetics course.
-5. [Molecular Biology (Khan Academy)](https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation): Free molecular biology fundamentals.
+1. [Addgene CRISPR Protocols](https://www.addgene.org/protocols/crispr/): Detailed wet-lab protocols for CRISPR experiments.
+2. [IDT Alt-R CRISPR Protocols](https://www.idtdna.com/protocols): Lipofection and electroporation protocols for mammalian cells, user methods for model organisms (zebrafish, C. elegans, mice, iPSCs).
+3. [NEB CRISPR Protocol Library](https://www.neb.com/tools-and-resources/feature-articles/crispr-cas9-and-targeted-genome-editing-a-new-era-in-molecular-biology): Protocols for Cas9 nucleases and NHEJ/HDR pathways.
+4. [Springer Nature CRISPR Protocols](https://experiments.springernature.com/techniques/crispr): Peer-reviewed protocols for human iPSCs, mammalian cells, and knock-ins.
 
-## Reading Lists
+### Key Methods
 
-1. [O957's Papers](assets/o957_reading_list.md)
+- **NHEJ (Non-Homologous End Joining)**: Error-prone repair causing indels for gene knockouts.
+- **HDR (Homology-Directed Repair)**: Precise edits using donor DNA templates with homology arms.
+- **Base Editing**: Direct C→T or A→G conversion without DSBs.
+- **Prime Editing**: "Search and replace" genome editing without donor DNA or DSBs.
 
-## Repositories
+### Model Organism-Specific
 
-1. [Benchling CRISPR](https://github.com/benchling/crispr): CRISPR design and analysis tools.
-2. [CRISPResso2](https://github.com/pinellolab/CRISPResso2): Analysis of genome editing outcomes.
-3. [GUIDES](https://github.com/pritykinlab/guidescan-cli): Genome-wide guide RNA design.
-4. [Cas-OFFinder](https://github.com/snugel/cas-offinder): CRISPR off-target detection.
-5. [chopchop](https://github.com/valenlab/chopchop): Web tool for CRISPR design.
-6. [GeneMark](https://github.com/davidji99/genemark): Gene therapy vector design tools.
-7. [AAV-Tools](https://github.com/broadinstitute/aav-tools): Adeno-associated virus engineering.
-8. [CARTcells](https://github.com/immunotherapy/cart-design): CAR-T cell design platform.
-9. [iGEM Registry](https://github.com/SynBioHub/synbiohub): Standard biological parts registry.
-10. [Cello](https://github.com/CIDARLAB/cello): Genetic circuit design automation.
-11. [j5](https://github.com/TeselaGen/jbei-ice): DNA assembly design tool.
-12. [SBOL](https://github.com/SynBioDex/pySBOL3): Synthetic Biology Open Language tools.
-13. [PlantCV](https://github.com/danforthcenter/plantcv): Plant phenotyping and analysis.
-14. [AgBioData](https://github.com/agbiodata/data-resources): Agricultural genomics databases.
-15. [CropPAL](https://github.com/croppal/croppal): Crop genome editing design.
-16. [MGDrivE](https://github.com/MarshallLab/MGDrivE): Mosquito gene drive explorer simulation.
-17. [SLiM](https://github.com/MesserLab/SLiM): Forward genetic simulation including gene drives.
-18. [genedrive-model](https://github.com/messerlab/gene-drive-simulations): Gene drive population dynamics.
-19. [embryo-editing-analysis](https://github.com/ethicsAI/germline-editing): Ethical analysis tools.
-20. [germline-simulator](https://github.com/genomics/heritability-models): Modeling germline modifications.
+1. [Human iPSC CRISPR Protocol](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpcb.8): Optimized for pluripotent stem cells.
 
-## Datasets
+## Synthetic Biology Resources
 
-## Software
+### Plasmid Repositories
 
-1. [Benchling](https://www.benchling.com/): Molecular biology research platform.
-2. [SnapGene](https://www.snapgene.com/): DNA sequence visualization and analysis.
-3. [Geneious](https://www.geneious.com/): Molecular biology and bioinformatics software.
-4. [BLAST](https://blast.ncbi.nlm.nih.gov/): Sequence similarity search.
-5. [Primer3](https://primer3.org/): PCR primer design.
-6. [APE](https://jorgensen.biology.utah.edu/wayned/ape/): Plasmid editor.
+1. [Addgene Synthetic Biology Collection](https://www.addgene.org/synthetic-biology/): 10,000+ plasmids for cloning, genetic circuits, metabolic engineering.
+2. [Registry of Standard Biological Parts (BioBricks)](http://parts.igem.org): 20,000+ standardized biological parts (iGEM Foundation).
+3. [JBEI Public Registry](https://public-registry.jbei.org): Joint BioEnergy Institute part registry.
 
-## Websites
+### Online Courses & Education
 
-1. [Addgene Educational Resources](https://www.addgene.org/mol-bio-reference/): Molecular biology reference materials.
-2. [HHMI BioInteractive](https://www.biointeractive.org/classroom-resources/crispr-cas-9-mechanism-applications): CRISPR educational materials.
-3. [Nature Scitable](https://www.nature.com/scitable/topic/genetic-engineering-12/): Genetic engineering learning resources.
+1. [edX Principles of Synthetic Biology](https://www.edx.org/course/principles-of-synthetic-biology): Free online course from MIT.
+2. [OpenWetWare](https://openwetware.org): Collaborative wiki for protocols and educational resources.
+
+### Journals
+
+1. [ACS Synthetic Biology](https://pubs.acs.org/journal/asbcd6): American Chemical Society journal.
+2. [Synthetic Biology (Oxford)](https://academic.oup.com/synbio): Open access journal.
+
+### Communities
+
+1. [iGEM (International Genetically Engineered Machine)](https://igem.org): Annual synthetic biology competition for students.
+2. [SynBioBeta](https://synbiobeta.com): Synthetic biology industry network.
+
+## Organizations & Networks
+
+1. [The CRISPR/Cas9 Consortium](https://www.broadinstitute.org/research-highlights-crispr): Broad Institute research collaborative.
+2. [Innovative Genomics Institute (IGI)](https://innovativegenomics.org): UC Berkeley/UCSF center for genome engineering.
+3. [CRISPR Therapeutics](https://crisprtx.com): Clinical-stage biotech company (CAR-T therapies).
+4. [Caribou Biosciences](https://cariboubio.com): CRISPR therapeutic platform company.
 
 ## Educational Resources
 
-1. [CRISPR Course (MIT OpenCourseWare)](https://ocw.mit.edu/courses/biology/7-016-introductory-biology-fall-2018/): Introduction to molecular biology.
-2. [Khan Academy Genetics](https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation): Free genetics courses.
+### Books
 
-## Contribution
+1. [A Crack in Creation](https://www.amazon.com/Crack-Creation-Editing-Unthinkable-Evolution/dp/0544716949): Jennifer Doudna and Samuel Sternberg on the CRISPR discovery story.
+2. [Editing Humanity](https://www.amazon.com/Editing-Humanity-Kevin-Davies/dp/1639362975): Kevin Davies on the ethics and future of gene editing.
+3. [Synthetic Biology: A Primer (Revised Edition)](https://www.amazon.com/Synthetic-Biology-Primer-Revised/dp/1783268794): Academic introduction to synthetic biology.
+
+### Video Lectures
+
+1. [iBiology CRISPR Lectures](https://www.ibiology.org/genetics-and-gene-regulation/crispr/): Free lecture series featuring Jennifer Doudna, Feng Zhang.
+2. [Broad Institute CRISPR Videos](https://www.youtube.com/user/BroadInstitute): Educational videos on genome editing.
+
+## Commercial Suppliers
+
+### CRISPR Reagents
+
+1. [Synthego](https://www.synthego.com): Synthetic guide RNAs and Cas9 proteins.
+2. [IDT (Integrated DNA Technologies)](https://www.idtdna.com/pages/products/crispr-genome-editing): Alt-R CRISPR System (gRNAs, Cas9, transfection).
+3. [Addgene](https://www.addgene.org): Non-profit plasmid repository (deposited by researchers).
+4. [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home/life-science/genome-editing.html): TrueCut Cas9 and GeneArt CRISPR systems.
+5. [GenScript](https://www.genscript.com/crispr-cas9-genome-editing.html): Custom CRISPR services and reagents.
+
+### Synthetic DNA & Gene Synthesis
+
+1. [Twist Bioscience](https://www.twistbioscience.com): High-throughput DNA synthesis.
+2. [IDT gBlocks](https://www.idtdna.com/pages/products/genes-and-gene-fragments/double-stranded-dna-fragments/gblocks-gene-fragments): Synthetic dsDNA fragments (125-3,000 bp).
+3. [GenScript Gene Synthesis](https://www.genscript.com/gene_synthesis.html): Custom gene and plasmid construction.
+
+## Regulatory & Ethics
+
+1. [NIH Guidelines for Research Involving Recombinant DNA](https://osp.od.nih.gov/biotechnology/nih-guidelines/): U.S. federal regulations.
+2. [FDA Cellular & Gene Therapy Guidance](https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products): Clinical translation pathways.
+3. [WHO Human Genome Editing Governance](https://www.who.int/groups/expert-advisory-committee-on-developing-global-standards-for-governance-and-oversight-of-human-genome-editing): International governance framework.
+
+## People
+
+- [Jennifer Doudna](https://github.com/Doudna-lab) - UC Berkeley / Innovative Genomics Institute. Co-inventor of CRISPR-Cas9 gene editing. 2020 Nobel Prize in Chemistry.
+- [Feng Zhang](https://github.com/fengzhanglab) - Broad Institute of MIT and Harvard. First to demonstrate CRISPR-Cas9 editing in mammalian cells (2013).
+- [Emmanuelle Charpentier](https://www.emmanuelle-charpentier.org/) - Max Planck Unit for the Science of Pathogens. Co-discovered the CRISPR-Cas9 mechanism. 2020 Nobel Prize in Chemistry.
+- [David Liu](https://www.liugroup.us/) - Broad Institute / Harvard University. Invented base editing and prime editing for precise genome modification without double-strand breaks.
+- [Neville Sanjana](https://github.com/sanjanalab) - New York Genome Center / NYU. Developed genome-scale CRISPR screening approaches and pooled library design tools.
+- [Patrick Hsu](https://github.com/hsulab-arc) - Arc Institute / UC Berkeley. Discovered programmable recombinases (bridge RNAs) and led development of Evo genomic AI models.
+- [Le Cong](https://github.com/cong-lab) - Stanford University. Co-first author on one of the first CRISPR-Cas9 human cell editing papers. Developed CRISPR-GPT.
+- [John Doench](https://www.broadinstitute.org/bios/john-doench) - Broad Institute. Created CRISPick sgRNA design portal and genome-wide CRISPR screening libraries.
+
+## Related Awesome Lists
+
+- [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - Bioinformatics libraries and software.
+- [Awesome CRISPR](https://github.com/davidliwei/awesome-CRISPR) - Software, websites, and databases for genome engineering.
+- [Awesome Synthetic Biology](https://github.com/websemantics/awesome-synthetic-biology) - Synthetic biology and genetic engineering projects and resources.
+- [Awesome Computational Biology](https://github.com/inoue0426/awesome-computational-biology) - Computational biology resources.
+- [Awesome Deep Learning in Biology](https://github.com/gokceneraslan/awesome-deepbio) - Deep learning applications in computational biology.
+- [Awesome Preimplantation Genetic Diagnosis](https://github.com/O957/awesome-preimplantation-genetic-diagnosis) - Genetic testing and diagnosis of embryos.
+
+## Contributing
 
 Notice anything missing that would be a good fit? If interested in contributing, please see the [contributing file](./CONTRIBUTING.md) for further direction.
 
+## Code of Conduct
+
+Please see the [code of conduct](./CODE_OF_CONDUCT.md).
+
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [O957](https://github.com/O957) has waived all copyright and related or neighboring rights to this work.
