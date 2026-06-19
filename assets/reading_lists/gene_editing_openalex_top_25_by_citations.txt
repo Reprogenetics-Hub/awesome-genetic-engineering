@@ -1,0 +1,228 @@
+Top 25 Papers Citation Search Results
+Generated: 2025-10-28 02:41:50
+================================================================================
+
+1. IOP Conference Series: Earth and Environmental Science
+   Authors: Inez Slamet, Rauza Sukma, Zuldadan Naspendra, Aprisal Aprisal, Nurul Hijri
+   Year: 2020
+   Citations: 10892
+   Source: IOP Conference Series Earth and Environmental Science
+   DOI: https://doi.org/10.1088/issn.1755-1315
+   URL: https://doi.org/10.1088/issn.1755-1315
+   Open Access: Yes
+
+2. Genome engineering using the CRISPR-Cas9 system
+   Authors: F. Ann Ran, Patrick D. Hsu, Jason Wright, Vineeta Agarwala, David Scott
+   Year: 2013
+   Citations: 10731
+   Source: Nature Protocols
+   DOI: https://doi.org/10.1038/nprot.2013.143
+   URL: https://doi.org/10.1038/nprot.2013.143
+   Open Access: Yes
+
+3. The new frontier of genome engineering with CRISPR-Cas9
+   Authors: Jennifer A. Doudna, Emmanuelle Charpentier
+   Year: 2014
+   Citations: 6306
+   Source: Science
+   DOI: https://doi.org/10.1126/science.1258096
+   URL: https://doi.org/10.1126/science.1258096
+   Open Access: No
+
+4. Engineering precision nanoparticles for drug delivery
+   Authors: Michael J. Mitchell, Margaret M. Billingsley, Rebecca M. Haley, Marissa E. Wechsler, Nicholas A. Peppas
+   Year: 2020
+   Citations: 6018
+   Source: Nature Reviews Drug Discovery
+   DOI: https://doi.org/10.1038/s41573-020-0090-8
+   URL: https://doi.org/10.1038/s41573-020-0090-8
+   Open Access: Yes
+
+5. Development and Applications of CRISPR-Cas9 for Genome Engineering
+   Authors: Patrick D. Hsu, Eric S. Lander, Feng Zhang
+   Year: 2014
+   Citations: 5423
+   Source: Cell
+   DOI: https://doi.org/10.1016/j.cell.2014.05.010
+   URL: https://doi.org/10.1016/j.cell.2014.05.010
+   Open Access: Yes
+
+6. Cancer nanomedicine: progress, challenges and opportunities
+   Authors: Jinjun Shi, Philip W. Kantoff, Richard Wooster, Omid C. Farokhzad
+   Year: 2016
+   Citations: 5159
+   Source: Nature reviews. Cancer
+   DOI: https://doi.org/10.1038/nrc.2016.108
+   URL: https://doi.org/10.1038/nrc.2016.108
+   Open Access: Yes
+
+7. DNA targeting specificity of RNA-guided Cas9 nucleases
+   Authors: Patrick D. Hsu, David A. Scott, Joshua A. Weinstein, F. Ann Ran, Silvana Konermann
+   Year: 2013
+   Citations: 4590
+   Source: Nature Biotechnology
+   DOI: https://doi.org/10.1038/nbt.2647
+   URL: https://doi.org/10.1038/nbt.2647
+   Open Access: Yes
+
+8. Optimized sgRNA design to maximize activity and minimize off-target effects of CRISPR-Cas9
+   Authors: John G. Doench, Nicolò Fusi, Meagan E. Sullender, Mudra Hegde, Emma W Vaimberg
+   Year: 2016
+   Citations: 4220
+   Source: Nature Biotechnology
+   DOI: https://doi.org/10.1038/nbt.3437
+   URL: https://doi.org/10.1038/nbt.3437
+   Open Access: Yes
+
+9. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses
+   Authors: Gil Stelzer, Naomi Rosen, Inbar Plaschkes, Shahar Zimmerman, Michal Twik
+   Year: 2016
+   Citations: 4146
+   Source: Current Protocols in Bioinformatics
+   DOI: https://doi.org/10.1002/cpbi.5
+   URL: https://doi.org/10.1002/cpbi.5
+   Open Access: No
+
+10. Natural products in drug discovery: advances and opportunities
+   Authors: Atanas G. Atanasov, Sergey B. Zotchev, Verena M. Dirsch, İlkay Erdoğan Orhan, Maciej Banach
+   Year: 2021
+   Citations: 3995
+   Source: Nature Reviews Drug Discovery
+   DOI: https://doi.org/10.1038/s41573-020-00114-z
+   URL: https://doi.org/10.1038/s41573-020-00114-z
+   Open Access: Yes
+
+11. One-Step Generation of Mice Carrying Mutations in Multiple Genes by CRISPR/Cas-Mediated Genome Engineering
+   Authors: Haoyi Wang, Hui Yang, Chikdu Shivalila, Meelad M. Dawlaty, Albert W. Cheng
+   Year: 2013
+   Citations: 3450
+   Source: Cell
+   DOI: https://doi.org/10.1016/j.cell.2013.04.025
+   URL: https://doi.org/10.1016/j.cell.2013.04.025
+   Open Access: Yes
+
+12. Microfluidic organs-on-chips
+   Authors: Sangeeta N. Bhatia, Donald E. Ingber
+   Year: 2014
+   Citations: 2935
+   Source: Nature Biotechnology
+   DOI: https://doi.org/10.1038/nbt.2989
+   URL: https://doi.org/10.1038/nbt.2989
+   Open Access: No
+
+13. Non-viral vectors for gene-based therapy
+   Authors: Hao Yin, Rosemary Kanasty, Ahmed A. Eltoukhy, Arturo J. Vegas, J. Robert Dorkin
+   Year: 2014
+   Citations: 2920
+   Source: Nature Reviews Genetics
+   DOI: https://doi.org/10.1038/nrg3763
+   URL: https://doi.org/10.1038/nrg3763
+   Open Access: No
+
+14. Shifting the limits in wheat research and breeding using a fully annotated reference genome
+   Authors: R. Appels, Kellye Eversole, Nils Stein, Catherine Feuillet, Beat Keller
+   Year: 2018
+   Citations: 2881
+   Source: Science
+   DOI: https://doi.org/10.1126/science.aar7191
+   URL: https://doi.org/10.1126/science.aar7191
+   Open Access: Yes
+
+15. Lipid nanoparticles for mRNA delivery
+   Authors: Xucheng Hou, Tal Zaks, Róbert Langer, Yizhou Dong
+   Year: 2021
+   Citations: 2690
+   Source: Nature Reviews Materials
+   DOI: https://doi.org/10.1038/s41578-021-00358-0
+   URL: https://doi.org/10.1038/s41578-021-00358-0
+   Open Access: Yes
+
+16. CAR T cell immunotherapy for human cancer
+   Authors: Carl H. June, Roddy S. O’Connor, Omkar U. Kawalekar, Saba Ghassemi, Michael C. Milone
+   Year: 2018
+   Citations: 2639
+   Source: Science
+   DOI: https://doi.org/10.1126/science.aar6711
+   URL: https://doi.org/10.1126/science.aar6711
+   Open Access: No
+
+17. Macrophage Polarization
+   Authors: Peter J. Murray
+   Year: 2016
+   Citations: 2551
+   Source: Annual Review of Physiology
+   DOI: https://doi.org/10.1146/annurev-physiol-022516-034339
+   URL: https://doi.org/10.1146/annurev-physiol-022516-034339
+   Open Access: No
+
+18. The ubiquitin kinase PINK1 recruits autophagy receptors to induce mitophagy
+   Authors: Michael Lazarou, Danielle A. Sliter, Lesley A. Kane, Shireen A. Sarraf, Chunxin Wang
+   Year: 2015
+   Citations: 2501
+   Source: Nature
+   DOI: https://doi.org/10.1038/nature14893
+   URL: https://doi.org/10.1038/nature14893
+   Open Access: Yes
+
+19. McDonald's blood flow in arteries; theoretical, experimental and clinical principles
+   Authors: Robert S. Reneman
+   Year: 1992
+   Citations: 2443
+   Source: General Pharmacology The Vascular System
+   DOI: https://doi.org/10.1016/0306-3623(92)90079-y
+   URL: https://doi.org/10.1016/0306-3623(92)90079-y
+   Open Access: No
+
+20. Metabolomics: beyond biomarkers and towards mechanisms
+   Authors: Caroline H. Johnson, Julijana Ivanišević, Gary Siuzdak
+   Year: 2016
+   Citations: 2342
+   Source: Nature Reviews Molecular Cell Biology
+   DOI: https://doi.org/10.1038/nrm.2016.25
+   URL: https://doi.org/10.1038/nrm.2016.25
+   Open Access: Yes
+
+21. Rationally engineered Cas9 nucleases with improved specificity
+   Authors: Ian M. Slaymaker, Linyi Gao, Bernd Zetsche, David Scott, Winston X. Yan
+   Year: 2015
+   Citations: 2301
+   Source: Science
+   DOI: https://doi.org/10.1126/science.aad5227
+   URL: https://doi.org/10.1126/science.aad5227
+   Open Access: Yes
+
+22. Easy quantitative assessment of genome editing by sequence trace decomposition
+   Authors: Eva K. Brinkman, Tao Chen, Mario Amendola, Bas van Steensel
+   Year: 2014
+   Citations: 2258
+   Source: Nucleic Acids Research
+   DOI: https://doi.org/10.1093/nar/gku936
+   URL: https://doi.org/10.1093/nar/gku936
+   Open Access: Yes
+
+23. The Arabidopsis Information Resource (TAIR): improved gene annotation and new tools
+   Authors: Philippe Lamesch, Tanya Berardini, Donghui Li, David Swarbreck, Christopher Wilks
+   Year: 2011
+   Citations: 2251
+   Source: Nucleic Acids Research
+   DOI: https://doi.org/10.1093/nar/gkr1090
+   URL: https://doi.org/10.1093/nar/gkr1090
+   Open Access: Yes
+
+24. PD-L1 (B7-H1) and PD-1 pathway blockade for cancer therapy: Mechanisms, response biomarkers, and combinations
+   Authors: Weiping Zou, Jedd D. Wolchok, Lieping Chen
+   Year: 2016
+   Citations: 2210
+   Source: Science Translational Medicine
+   DOI: https://doi.org/10.1126/scitranslmed.aad7118
+   URL: https://doi.org/10.1126/scitranslmed.aad7118
+   Open Access: Yes
+
+25. Molecular mechanism and physiological functions of clathrin-mediated endocytosis
+   Authors: Harvey T. McMahon, Emmanuel Boucrot
+   Year: 2011
+   Citations: 2166
+   Source: Nature Reviews Molecular Cell Biology
+   DOI: https://doi.org/10.1038/nrm3151
+   URL: https://doi.org/10.1038/nrm3151
+   Open Access: No

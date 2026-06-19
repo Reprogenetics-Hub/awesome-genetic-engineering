@@ -1,0 +1,228 @@
+Top 25 Papers Citation Search Results
+Generated: 2025-10-28 02:38:40
+================================================================================
+
+1. The Sequence Alignment/Map format and SAMtools
+   Authors: Heng Li, Robert E. Handsaker, Alec Wysoker, Tim Fennell, Jue Ruan
+   Year: 2009
+   Citations: 58530
+   Source: Bioinformatics
+   DOI: https://doi.org/10.1093/bioinformatics/btp352
+   URL: https://doi.org/10.1093/bioinformatics/btp352
+   Open Access: Yes
+
+2. Fast and accurate short read alignment with Burrows–Wheeler transform
+   Authors: Heng Li, Richard Durbin
+   Year: 2009
+   Citations: 55469
+   Source: Bioinformatics
+   DOI: https://doi.org/10.1093/bioinformatics/btp324
+   URL: https://doi.org/10.1093/bioinformatics/btp324
+   Open Access: Yes
+
+3. Fast gapped-read alignment with Bowtie 2
+   Authors: Ben Langmead, Steven L. Salzberg
+   Year: 2012
+   Citations: 52015
+   Source: Nature Methods
+   DOI: https://doi.org/10.1038/nmeth.1923
+   URL: https://doi.org/10.1038/nmeth.1923
+   Open Access: Yes
+
+4. STAR: ultrafast universal RNA-seq aligner
+   Authors: Alexander Dobin, Carrie Davis, Felix Schlesinger, Jörg Drenkow, Chris Zaleski
+   Year: 2012
+   Citations: 46467
+   Source: Bioinformatics
+   DOI: https://doi.org/10.1093/bioinformatics/bts635
+   URL: https://doi.org/10.1093/bioinformatics/bts635
+   Open Access: Yes
+
+5. Gene Ontology: tool for the unification of biology
+   Authors: Michael Ashburner, Catherine A. Ball, Judith A. Blake, David Botstein, H. Butler
+   Year: 2000
+   Citations: 40511
+   Source: Nature Genetics
+   DOI: https://doi.org/10.1038/75556
+   URL: https://doi.org/10.1038/75556
+   Open Access: Yes
+
+6. Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources
+   Authors: Da Wei Huang, Brad T. Sherman, Richard A. Lempicki
+   Year: 2008
+   Citations: 34931
+   Source: Nature Protocols
+   DOI: https://doi.org/10.1038/nprot.2008.211
+   URL: https://doi.org/10.1038/nprot.2008.211
+   Open Access: No
+
+7. KEGG: Kyoto Encyclopedia of Genes and Genomes
+   Authors: Hiroyuki Ogata, Susumu Goto, Kazushige Sato, Wataru Fujibuchi, Hidemasa Bono
+   Year: 1999
+   Citations: 31964
+   Source: Nucleic Acids Research
+   DOI: https://doi.org/10.1093/nar/27.1.29
+   URL: https://doi.org/10.1093/nar/27.1.29
+   Open Access: Yes
+
+8. PLINK: A Tool Set for Whole-Genome Association and Population-Based Linkage Analyses
+   Authors: Shaun Purcell, Benjamin M. Neale, Katherine EO Todd-Brown, L. Odong Thomas, Manuel A. R. Ferreira
+   Year: 2007
+   Citations: 31703
+   Source: The American Journal of Human Genetics
+   DOI: https://doi.org/10.1086/519795
+   URL: https://doi.org/10.1086/519795
+   Open Access: Yes
+
+9. KEGG: Kyoto Encyclopedia of Genes and Genomes
+   Authors: Minoru Kanehisa
+   Year: 2000
+   Citations: 30158
+   Source: Nucleic Acids Research
+   DOI: https://doi.org/10.1093/nar/28.1.27
+   URL: https://doi.org/10.1093/nar/28.1.27
+   Open Access: Yes
+
+10. clusterProfiler: an R Package for Comparing Biological Themes Among Gene Clusters
+   Authors: Guangchuang Yu, Li-Gen Wang, Yanyan Han, Qing‐Yu He
+   Year: 2012
+   Citations: 28875
+   Source: OMICS A Journal of Integrative Biology
+   DOI: https://doi.org/10.1089/omi.2011.0118
+   URL: https://doi.org/10.1089/omi.2011.0118
+   Open Access: Yes
+
+11. Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology
+   Authors: Sue Richards, Nazneen Aziz, Sherri J. Bale, David Bick, Soma Das
+   Year: 2015
+   Citations: 27494
+   Source: Genetics in Medicine
+   DOI: https://doi.org/10.1038/gim.2015.30
+   URL: https://doi.org/10.1038/gim.2015.30
+   Open Access: Yes
+
+12. BEDTools: a flexible suite of utilities for comparing genomic features
+   Authors: Aaron R. Quinlan, Ira M. Hall
+   Year: 2010
+   Citations: 25750
+   Source: Bioinformatics
+   DOI: https://doi.org/10.1093/bioinformatics/btq033
+   URL: https://doi.org/10.1093/bioinformatics/btq033
+   Open Access: Yes
+
+13. Initial sequencing and analysis of the human genome
+   Authors: Eric S. Lander, Lauren Linton, Bruce W. Birren, Chad Nusbaum, Michael C. Zody
+   Year: 2001
+   Citations: 24008
+   Source: Nature
+   DOI: https://doi.org/10.1038/35057062
+   URL: https://doi.org/10.1038/35057062
+   Open Access: Yes
+
+14. featureCounts: an efficient general purpose program for assigning sequence reads to genomic features
+   Authors: Yang Liao, Gordon K. Smyth, Wei Shi
+   Year: 2013
+   Citations: 23228
+   Source: Bioinformatics
+   DOI: https://doi.org/10.1093/bioinformatics/btt656
+   URL: https://doi.org/10.1093/bioinformatics/btt656
+   Open Access: Yes
+
+15. Ultrafast and memory-efficient alignment of short DNA sequences to the human genome
+   Authors: Ben Langmead, Cole Trapnell, Mihai Pop, Steven L. Salzberg
+   Year: 2009
+   Citations: 21582
+   Source: Genome biology
+   DOI: https://doi.org/10.1186/gb-2009-10-3-r25
+   URL: https://doi.org/10.1186/gb-2009-10-3-r25
+   Open Access: Yes
+
+16. HISAT: a fast spliced aligner with low memory requirements
+   Authors: Daehwan Kim, Ben Langmead, Steven L. Salzberg
+   Year: 2015
+   Citations: 20780
+   Source: Nature Methods
+   DOI: https://doi.org/10.1038/nmeth.3317
+   URL: https://doi.org/10.1038/nmeth.3317
+   Open Access: Yes
+
+17. Induction of Pluripotent Stem Cells from Adult Human Fibroblasts by Defined Factors
+   Authors: Kazutoshi Takahashi, Koji Tanabe, Mari Ohnuki, Megumi Narita, Tomoko Ichisaka
+   Year: 2007
+   Citations: 19554
+   Source: Cell
+   DOI: https://doi.org/10.1016/j.cell.2007.11.019
+   URL: https://doi.org/10.1016/j.cell.2007.11.019
+   Open Access: Yes
+
+18. Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal control genes
+   Authors: Jo Vandesompele, Katleen De Preter, Filip Pattyn, Bruce Poppe, Nadine Van Roy
+   Year: 2002
+   Citations: 19336
+   Source: Genome biology
+   DOI: https://doi.org/10.1186/gb-2002-3-7-research0034
+   URL: https://doi.org/10.1186/gb-2002-3-7-research0034
+   Open Access: Yes
+
+19. BLAST+: architecture and applications
+   Authors: Christiam Camacho, George Coulouris, Vahram Avagyan, Ning Ma, Jason S. Papadopoulos
+   Year: 2009
+   Citations: 19214
+   Source: BMC Bioinformatics
+   DOI: https://doi.org/10.1186/1471-2105-10-421
+   URL: https://doi.org/10.1186/1471-2105-10-421
+   Open Access: Yes
+
+20. An integrated encyclopedia of DNA elements in the human genome
+   Authors: Sylvain Foissac
+   Year: 2012
+   Citations: 17693
+   Source: Nature
+   DOI: https://doi.org/10.1038/nature11247
+   URL: https://doi.org/10.1038/nature11247
+   Open Access: Yes
+
+21. Model-based Analysis of ChIP-Seq (MACS)
+   Authors: Yong Zhang, Tao Liu, Clifford A. Meyer, Jérôme Eeckhoute, David S. Johnson
+   Year: 2008
+   Citations: 17295
+   Source: Genome biology
+   DOI: https://doi.org/10.1186/gb-2008-9-9-r137
+   URL: https://doi.org/10.1186/gb-2008-9-9-r137
+   Open Access: Yes
+
+22. Cluster analysis and display of genome-wide expression patterns
+   Authors: Michael B. Eisen, Paul T. Spellman, Patrick O. Brown, David Botstein
+   Year: 1998
+   Citations: 16498
+   Source: Proceedings of the National Academy of Sciences
+   DOI: https://doi.org/10.1073/pnas.95.25.14863
+   URL: https://doi.org/10.1073/pnas.95.25.14863
+   Open Access: Yes
+
+23. Primer3 on the WWW for General Users and for Biologist Programmers
+   Authors: Steve Rozen, Helen Skaletsky
+   Year: 2003
+   Citations: 15331
+   Source: Humana Press eBooks
+   DOI: https://doi.org/10.1385/1-59259-192-2:365
+   URL: https://doi.org/10.1385/1-59259-192-2:365
+   Open Access: Yes
+
+24. Ror2 signaling regulates Golgi structure and transport through IFT20 for tumor invasiveness
+   Authors: Michiru Nishita, Seung‐Yeol Park, Tadashi Nishio, Koki Kamizaki, Zhichao Wang
+   Year: 2017
+   Citations: 15191
+   Source: Scientific Reports
+   DOI: https://doi.org/10.1038/s41598-016-0028-x
+   URL: https://doi.org/10.1038/s41598-016-0028-x
+   Open Access: Yes
+
+25. Multiplex Genome Engineering Using CRISPR/Cas Systems
+   Authors: Le Cong, F. Ann Ran, David Cox, Shuailiang Lin, Robert P. J. Barretto
+   Year: 2013
+   Citations: 14840
+   Source: Science
+   DOI: https://doi.org/10.1126/science.1231143
+   URL: https://doi.org/10.1126/science.1231143
+   Open Access: Yes

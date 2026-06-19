@@ -7,6 +7,8 @@ dot_acn = ".acn"
 dot_fot = ".fot"
 dot_ist = ".ist"
 MERCHANTIBILITY = "MERCHANTIBILITY"
+Pease = "Pease"
+Mata = "Mata"
 
 [files]
 extend-exclude = [

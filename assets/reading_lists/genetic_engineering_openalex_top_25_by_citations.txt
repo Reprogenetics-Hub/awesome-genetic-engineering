@@ -1,0 +1,228 @@
+Top 25 Papers Citation Search Results
+Generated: 2025-10-28 02:37:49
+================================================================================
+
+1. Social Cognitive Theory: An Agentic Perspective
+   Authors: Albert Bandura
+   Year: 2001
+   Citations: 13468
+   Source: Annual Review of Psychology
+   DOI: https://doi.org/10.1146/annurev.psych.52.1.1
+   URL: https://doi.org/10.1146/annurev.psych.52.1.1
+   Open Access: No
+
+2. Tissue Engineering
+   Authors: Róbert Langer, Joseph P. Vacanti
+   Year: 1993
+   Citations: 9303
+   Source: Science
+   DOI: https://doi.org/10.1126/science.8493529
+   URL: https://doi.org/10.1126/science.8493529
+   Open Access: No
+
+3. Biodiesel from microalgae
+   Authors: Yusuf Chisti
+   Year: 2007
+   Citations: 9085
+   Source: Biotechnology Advances
+   DOI: https://doi.org/10.1016/j.biotechadv.2007.02.001
+   URL: https://doi.org/10.1016/j.biotechadv.2007.02.001
+   Open Access: No
+
+4. Primer3—new capabilities and interfaces
+   Authors: Andreas Untergasser, Ioana Cutcutache, Triinu Kõressaar, Jian Ye, Brant C. Faircloth
+   Year: 2012
+   Citations: 8857
+   Source: Nucleic Acids Research
+   DOI: https://doi.org/10.1093/nar/gks596
+   URL: https://doi.org/10.1093/nar/gks596
+   Open Access: Yes
+
+5. Perception of Risk
+   Authors: Paul Slovic
+   Year: 1987
+   Citations: 8723
+   Source: Science
+   DOI: https://doi.org/10.1126/science.3563507
+   URL: https://doi.org/10.1126/science.3563507
+   Open Access: No
+
+6. Interorganizational Collaboration and the Locus of Innovation: Networks of Learning in Biotechnology
+   Authors: Walter W. Powell, Kenneth W. Koput, Laurel Smith‐Doerr
+   Year: 1996
+   Citations: 8517
+   Source: Administrative Science Quarterly
+   DOI: https://doi.org/10.2307/2393988
+   URL: https://doi.org/10.2307/2393988
+   Open Access: No
+
+7. NMR with Proteins and Nucleic Acids
+   Authors: Kurt Wüthrich
+   Year: 1986
+   Citations: 7936
+   Source: Europhysics news
+   DOI: https://doi.org/10.1051/epn/19861701011
+   URL: https://doi.org/10.1051/epn/19861701011
+   Open Access: No
+
+8. Site-directed mutagenesis by overlap extension using the polymerase chain reaction
+   Authors: Steffan N. Ho, Henry D. Hunt, Robert M. Horton, Jeffrey K. Pullen, Larry R. Pease
+   Year: 1989
+   Citations: 7560
+   Source: Gene
+   DOI: https://doi.org/10.1016/0378-1119(89)90358-2
+   URL: https://doi.org/10.1016/0378-1119(89)90358-2
+   Open Access: No
+
+9. A Broad Host Range Mobilization System for In Vivo Genetic Engineering: Transposon Mutagenesis in Gram Negative Bacteria
+   Authors: Reinhard Simon, U. B. Priefer, Alfred Pühler
+   Year: 1983
+   Citations: 7418
+   Source: Bio/Technology
+   DOI: https://doi.org/10.1038/nbt1183-784
+   URL: https://doi.org/10.1038/nbt1183-784
+   Open Access: No
+
+10. Initial sequencing and comparative analysis of the mouse genome
+   Authors: R Waterston, Kerstin Lindblad‐Toh, Ewan Birney, Jane Rogers, Josep F. Abril
+   Year: 2002
+   Citations: 7112
+   Source: Nature
+   DOI: https://doi.org/10.1038/nature01262
+   URL: https://doi.org/10.1038/nature01262
+   Open Access: Yes
+
+11. Comparative physiology of salt and water stress
+   Authors: Rana Munns
+   Year: 2002
+   Citations: 6398
+   Source: Plant Cell & Environment
+   DOI: https://doi.org/10.1046/j.0016-8025.2001.00808.x
+   URL: https://doi.org/10.1046/j.0016-8025.2001.00808.x
+   Open Access: Yes
+
+12. Engineering precision nanoparticles for drug delivery
+   Authors: Michael J. Mitchell, Margaret M. Billingsley, Rebecca M. Haley, Marissa E. Wechsler, Nicholas A. Peppas
+   Year: 2020
+   Citations: 6018
+   Source: Nature Reviews Drug Discovery
+   DOI: https://doi.org/10.1038/s41573-020-0090-8
+   URL: https://doi.org/10.1038/s41573-020-0090-8
+   Open Access: Yes
+
+13. S<scp>ALT AND</scp> D<scp>ROUGHT</scp> S<scp>TRESS</scp> S<scp>IGNAL</scp> T<scp>RANSDUCTION IN</scp> P<scp>LANTS</scp>
+   Authors: Jian‐Kang Zhu
+   Year: 2002
+   Citations: 5661
+   Source: Annual Review of Plant Biology
+   DOI: https://doi.org/10.1146/annurev.arplant.53.091401.143329
+   URL: https://doi.org/10.1146/annurev.arplant.53.091401.143329
+   Open Access: Yes
+
+14. The Path Forward for Biofuels and Biomaterials
+   Authors: Arthur J. Ragauskas, Charlotte K. Williams, Brian H. Davison, George J. P. Britovsek, John Cairney
+   Year: 2006
+   Citations: 5557
+   Source: Science
+   DOI: https://doi.org/10.1126/science.1114736
+   URL: https://doi.org/10.1126/science.1114736
+   Open Access: No
+
+15. Microalgae for biodiesel production and other applications: A review
+   Authors: Teresa M. Mata, António A. Martins, Nídia S. Caetano
+   Year: 2009
+   Citations: 5460
+   Source: Renewable and Sustainable Energy Reviews
+   DOI: https://doi.org/10.1016/j.rser.2009.07.020
+   URL: https://doi.org/10.1016/j.rser.2009.07.020
+   Open Access: Yes
+
+16. CHOP Chemotherapy plus Rituximab Compared with CHOP Alone in Elderly Patients with Diffuse Large-B-Cell Lymphoma
+   Authors: Bertrand Coiffier, Éric Lepage, Josette Brière, Raoul Herbrecht, Hervé Tilly
+   Year: 2002
+   Citations: 5446
+   Source: New England Journal of Medicine
+   DOI: https://doi.org/10.1056/nejmoa011795
+   URL: https://doi.org/10.1056/nejmoa011795
+   Open Access: Yes
+
+17. Development and Applications of CRISPR-Cas9 for Genome Engineering
+   Authors: Patrick D. Hsu, Eric S. Lander, Feng Zhang
+   Year: 2014
+   Citations: 5423
+   Source: Cell
+   DOI: https://doi.org/10.1016/j.cell.2014.05.010
+   URL: https://doi.org/10.1016/j.cell.2014.05.010
+   Open Access: Yes
+
+18. Normal Accidents: Living with High Risk Technologies
+   Authors: A. J. Grimes, Charles Perrow
+   Year: 1985
+   Citations: 5192
+   Source: Academy of Management Review
+   DOI: https://doi.org/10.2307/257982
+   URL: https://doi.org/10.2307/257982
+   Open Access: No
+
+19. Pandora's Hope: Essays on the Reality of Science Studies
+   Authors: Monica J. Casper, Bruno Latour
+   Year: 2000
+   Citations: 5187
+   Source: Contemporary Sociology A Journal of Reviews
+   DOI: https://doi.org/10.2307/2655272
+   URL: https://doi.org/10.2307/2655272
+   Open Access: No
+
+20. Methods in Yeast Genetics
+   Authors: Heiner Jacob
+   Year: 1988
+   Citations: 4920
+   Source: Bioelectrochemistry and Bioenergetics
+   DOI: https://doi.org/10.1016/0302-4598(88)80052-7
+   URL: https://doi.org/10.1016/0302-4598(88)80052-7
+   Open Access: No
+
+21. Tight regulation, modulation, and high-level expression by vectors containing the arabinose PBAD promoter
+   Authors: Luz‐Maria Guzman, Dominique Belin, M. Carson, Jon Beckwith
+   Year: 1995
+   Citations: 4900
+   Source: Journal of Bacteriology
+   DOI: https://doi.org/10.1128/jb.177.14.4121-4130.1995
+   URL: https://doi.org/10.1128/jb.177.14.4121-4130.1995
+   Open Access: Yes
+
+22. Bioceramics: From Concept to Clinic
+   Authors: Larry L. Hench
+   Year: 1991
+   Citations: 4864
+   Source: Journal of the American Ceramic Society
+   DOI: https://doi.org/10.1111/j.1151-2916.1991.tb07132.x
+   URL: https://doi.org/10.1111/j.1151-2916.1991.tb07132.x
+   Open Access: No
+
+23. Introduction and General Overview of Cyclodextrin Chemistry
+   Authors: József Szejtli
+   Year: 1998
+   Citations: 4796
+   Source: Chemical Reviews
+   DOI: https://doi.org/10.1021/cr970022c
+   URL: https://doi.org/10.1021/cr970022c
+   Open Access: No
+
+24. Repurposing CRISPR as an RNA-Guided Platform for Sequence-Specific Control of Gene Expression
+   Authors: Lei S. Qi, Matthew H. Larson, Luke A. Gilbert, Jennifer A. Doudna, Jonathan S. Weissman
+   Year: 2013
+   Citations: 4738
+   Source: Cell
+   DOI: https://doi.org/10.1016/j.cell.2013.02.022
+   URL: https://doi.org/10.1016/j.cell.2013.02.022
+   Open Access: Yes
+
+25. A typology for the classification, description and valuation of ecosystem functions, goods and services
+   Authors: R.S. de Groot, Matthew Wilson, Roelof Boumans
+   Year: 2002
+   Citations: 4670
+   Source: Ecological Economics
+   DOI: https://doi.org/10.1016/s0921-8009(02)00089-7
+   URL: https://doi.org/10.1016/s0921-8009(02)00089-7
+   Open Access: No
